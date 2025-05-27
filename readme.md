@@ -2,21 +2,6 @@
 
 ## Learn basic of Ide, base languages and their frameworks.
 
-## Unified Record Tracking for Ketro Care Inc
-- Call it "Medical Software Provider"
-- As of 2025, the healthcare software development market is highly competitive, with several prominent companies leading the way. Here are some of the top medical software providers:
-
-	Epic: Known for its comprehensive EHR software, "Epic EHR," which is widely used by top-ranked US hospitals and medical schools. Epic offers integrated healthcare information systems, including patient records, billing, scheduling, and clinical decision support. The company has been recognized as the Best in KLAS for overall software suite for 13 consecutive years.
-	Cerner: A leading provider of healthcare information technology solutions, including EHR systems, revenue cycle management, and clinical decision support tools. Cerner was acquired by Oracle in 2021 for $28.3 billion, further solidifying its position in the market.
-	athenahealth: Specializes in cloud-based EHR systems, practice management, revenue cycle management, and patient engagement tools. The company has won numerous awards for its culture, solutions, customer service, and commitment to diversity.
-	Siemens Healthineers: A major player in medical technology, offering EHR systems, laboratory information systems, and healthcare analytics tools. Their solutions aim to improve patient outcomes and operational efficiency.
-	eClinicalWorks: Provides EHR systems and practice management solutions for ambulatory care settings. Their software includes patient engagement tools, telehealth solutions, and population health management capabilities.
-	Veradigm: Offers a wide range of healthcare technology solutions, including EHR systems, practice management systems, and patient engagement platforms. Veradigm is committed to supporting healthcare providers in delivering their best clinical and financial performance.
-	McKesson: A diversified healthcare company that provides pharmaceutical distribution, medical supplies, and healthcare software development. Their solutions include EHR systems, revenue cycle management software, and clinical decision support tools.
-	KMS Healthcare: A renowned company that provides innovative tools and expertise for creating industry-leading health solutions. They offer a comprehensive range of services, including management, care delivery, data analytics, and patient experience.
-	Wipro: A multinational corporation that develops software for various industries, including healthcare. Wipro offers revenue cycle management systems, interoperability solutions, Medicaid platform, enrollment and billing, and healthcare insurance exchanges.
-	GE Healthcare: A subsidiary of General Electric, GE Healthcare provides medical equipment and healthcare information technology solutions. They have been developing AI-based software in collaboration with Spectronic Medical.
-
 
 
 ## Build a Better Quickbooks Sharp API V2 since the one that exist on nuget is weak. Try to make it multi API so it for all the business languages like Java, C#, Python,  C++, C, maybe Rust and Go.
@@ -74,6 +59,30 @@ Reasons why provided
 - https://news.ycombinator.com/item?id=16180936
 - https://meeksfamily.uk/~michael/data/2016-04-29-solving-problems.pdf
 - Maybe add the ability to use sftp to perform live data alteration like with online google Doc or Microsoft office suite
+
+## Unified Record Tracking for Ketro Care Inc
+- Call it "Medical Software Provider"
+- As of 2025, the healthcare software development market is highly competitive, with several prominent companies leading the way. Here are some of the top medical software providers:
+- Research Topics
+  
+	Epic: Known for its comprehensive EHR software, "Epic EHR," which is widely used by top-ranked US hospitals and medical schools. Epic offers integrated healthcare information systems, including patient records, billing, scheduling, and clinical decision support. The company has been recognized as the Best in KLAS for overall software suite for 13 consecutive years.
+
+	Cerner: A leading provider of healthcare information technology solutions, including EHR systems, revenue cycle management, and clinical decision support tools. Cerner was acquired by Oracle in 2021 for $28.3 billion, further solidifying its position in the market.
+	athenahealth: Specializes in cloud-based EHR systems, practice management, revenue cycle management, and patient engagement tools. The company has won numerous awards for its culture, solutions, customer service, and commitment to diversity.
+
+	Siemens Healthineers: A major player in medical technology, offering EHR systems, laboratory information systems, and healthcare analytics tools. Their solutions aim to improve patient outcomes and operational efficiency.
+
+	eClinicalWorks: Provides EHR systems and practice management solutions for ambulatory care settings. Their software includes patient engagement tools, telehealth solutions, and population health management capabilities.
+
+	Veradigm: Offers a wide range of healthcare technology solutions, including EHR systems, practice management systems, and patient engagement platforms. Veradigm is committed to supporting healthcare providers in delivering their best clinical and financial performance.
+
+	McKesson: A diversified healthcare company that provides pharmaceutical distribution, medical supplies, and healthcare software development. Their solutions include EHR systems, revenue cycle management software, and clinical decision support tools.
+
+	KMS Healthcare: A renowned company that provides innovative tools and expertise for creating industry-leading health solutions. They offer a comprehensive range of services, including management, care delivery, data analytics, and patient experience.
+
+	Wipro: A multinational corporation that develops software for various industries, including healthcare. Wipro offers revenue cycle management systems, interoperability solutions, Medicaid platform, enrollment and billing, and healthcare insurance exchanges.
+
+	GE Healthcare: A subsidiary of General Electric, GE Healthcare provides medical equipment and healthcare information technology solutions. They have been developing AI-based software in collaboration with Spectronic Medical.
 
 
 
