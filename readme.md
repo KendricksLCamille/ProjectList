@@ -2,6 +2,8 @@
 
 ## Learn basic of Ide, base languages and their frameworks.
 
+## Build a Better Quickbooks Sharp API V2 since the one that exist on nuget is weak. Try to make it multi API so it for all the business languages like Java, Python, C#, C++, C, maybe Rust and Go.
+
 ## A Meta Job Engine which handles the effort of syncing all Job boards
 information together like resumes, projects, messages and etc.
 Similiar to video sharing site, an applicaiton that syncs all Job Boards websites information like description and projects job status so it doesn't need to be done manually.
