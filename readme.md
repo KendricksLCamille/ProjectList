@@ -139,6 +139,12 @@ https://en.wikipedia.org/wiki/Ventrilo - find libraries
  - If using Java (Swing, etc), called Cava
  - If C# (Avalonia), Calibre#
  - If C++(Qt), Calibre++
+
+## GPL 3 Open Techinical Writer Application
+ - https://news.ycombinator.com/item?id=37994725
+
+## Email based secured chat app
+ - https://news.ycombinator.com/item?id=44335065
  
 
 ## Learn other game engines and implement features into Redot
