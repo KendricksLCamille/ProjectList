@@ -1,5 +1,10 @@
 # Projects
-
+## Fix Wii U
+ - https://gbatemp.net/threads/ultimate-wii-u-troubleshooting-guide-system-memory-error-160-0103-stuck-wii-u-screen-stuck-factory-reset-black-screen-after-stuck-update.642339/#post-10308257
+ - https://gbatemp.net/threads/how-to-setup-rednand-to-fix-system-memory-error-160-0103-failing-emmc-without-soldering.642268/
+ - https://gbatemp.net/threads/ultimate-wii-u-troubleshooting-guide-system-memory-error-160-0103-stuck-wii-u-screen-stuck-factory-reset-black-screen-after-stuck-update.642339/
+ - https://gbatemp.net/threads/wii-u-bricked-black-screen-of-death.672402/
+ - 
 ## Learn basic of Ide, base languages and their frameworks.
 
 
@@ -149,3 +154,26 @@ https://en.wikipedia.org/wiki/Ventrilo - find libraries
 
 ## Learn other game engines and implement features into Redot
 - Prereq is C++
+
+## Assist with developing Emulators for Wii U and 3ds
+- [Link](https://gbatemp.net/threads/seta-gx-sega-saturn-emulator.668776/)
+- [Link2](https://gbatemp.net/threads/most-powerful-console-to-be-emulated-by-a-wii-u.671609/)
+
+## [Improve WUPClient](https://gbatemp.net/threads/wupclient-and-gui-updates.672551/)
+## [Port Ladybird to Wii U](https://gbatemp.net/threads/wii-u-browser-upgrade.524823/)
+## Fix and Improve
+- https://gbatemp.net/threads/release-uwuvci-injectiine.486781/page-53
+- https://gbatemp.net/threads/modmii-is-now-supporting-the-wii-u.668223/
+## Port Recomps to Wii U
+- https://gbatemp.net/threads/new-static-recompiler-tool-n64recomp-aims-to-seamlessly-modernize-n64-games.655670/page-4#post-10419554
+- https://gbatemp.net/threads/mario-kart-64-decomp-gets-ported-to-pc.672569/
+- https://gbatemp.net/threads/star-fox-64-is-getting-a-native-pc-port.663682/
+- https://gbatemp.net/threads/mario-party-4-decompilation-project-reaches-completion.671028/
+- https://gbatemp.net/threads/animal-crossing-for-the-gamecube-has-been-decompiled.672373/page-4#post-10675359
+- https://gbatemp.net/threads/pc-port-of-sonic-unleashed-created-by-fans-through-recompilation-project.667773/page-2#post-10601177
+- https://gbatemp.net/threads/diddy-kong-racing-decompilation-is-nearing-completion.670454/page-2#post-10643732
+- https://gbatemp.net/threads/banjo-kazooie-fully-decomped.660210/#post-10485423
+- https://gbatemp.net/threads/unreleased-dinosaur-planet-n64-game-by-rare-gets-an-initial-recompilation-port-using-n64-recompiled.670742/page-2#post-10648513
+- https://gbatemp.net/threads/majoras-mask-pc-port-2ship2harkinian-gets-its-first-release.656419/page-3#post-10429110
+
+
