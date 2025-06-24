@@ -173,7 +173,10 @@ https://en.wikipedia.org/wiki/Ventrilo - find libraries
 - https://gbatemp.net/threads/pc-port-of-sonic-unleashed-created-by-fans-through-recompilation-project.667773/page-2#post-10601177
 - https://gbatemp.net/threads/diddy-kong-racing-decompilation-is-nearing-completion.670454/page-2#post-10643732
 - https://gbatemp.net/threads/banjo-kazooie-fully-decomped.660210/#post-10485423
+- https://gbatemp.net/threads/retroarch-wiiu-wip.447670/page-743
 - https://gbatemp.net/threads/unreleased-dinosaur-planet-n64-game-by-rare-gets-an-initial-recompilation-port-using-n64-recompiled.670742/page-2#post-10648513
 - https://gbatemp.net/threads/majoras-mask-pc-port-2ship2harkinian-gets-its-first-release.656419/page-3#post-10429110
+- https://gbatemp.net/threads/animal-crossing-for-the-gamecube-has-been-decompiled.672373/
+- 
 
 
