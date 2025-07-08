@@ -7,6 +7,37 @@
  - 
 ## Learn basic of Ide, base languages and their frameworks.
 
+## Port Nones (NES Emulator)
+### Learn WUT
+
+### Learn SDL3
+### Set Up default SDL3
+Create a menu to test each of SDL3 menus by porting and creating a menu
+
+
+https://wiki.libsdl.org/SDL3/FrontPage
+
+https://examples.libsdl.org/SDL3/
+
+https://github.com/libsdl-org/SDL/tree/main/test
+
+https://packages.fedoraproject.org/pkgs/SDL3/SDL3-test/index.html
+
+### Port SDL3 to Wii U
+
+Use SDL3 to build ontop of WUT like how sdl2-wut works
+
+https://wiiubrew.org/wiki/Homebrew_development_guide
+
+https://github.com/yawut/sdl2-wiiu
+
+Handle gamepad stuff
+
+### Port NONES to Wii U
+
+Take the SDL3 code and port to wii u
+
+https://github.com/purpasmart96/nones
 
 
 ## Build a Better Quickbooks Sharp API V2 since the one that exist on nuget is weak. Try to make it multi API so it for all the business languages like Java, C#, Python,  C++, C, maybe Rust and Go.
