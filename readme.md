@@ -208,6 +208,10 @@ https://en.wikipedia.org/wiki/Ventrilo - find libraries
 - https://gbatemp.net/threads/unreleased-dinosaur-planet-n64-game-by-rare-gets-an-initial-recompilation-port-using-n64-recompiled.670742/page-2#post-10648513
 - https://gbatemp.net/threads/majoras-mask-pc-port-2ship2harkinian-gets-its-first-release.656419/page-3#post-10429110
 - https://gbatemp.net/threads/animal-crossing-for-the-gamecube-has-been-decompiled.672373/
+- https://github.com/HarbourMasters/SpaghettiKart
+	- https://search.brave.com/search?q=common+ui+elements&summary=1&conversation=75781b32c6bb06121e6b01
 - 
 
-
+## Libreoffice
+Add ability to update the properties of multiple selected slides and have the context menu display it.
+	For example, if I select one slide, I can change the background but if I select two then it won't show it because its confusing when it only affect one slide. Either make it affect all or make it not show up at all.
