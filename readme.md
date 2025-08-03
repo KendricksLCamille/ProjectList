@@ -214,4 +214,4 @@ https://en.wikipedia.org/wiki/Ventrilo - find libraries
 
 ## Libreoffice
 Add ability to update the properties of multiple selected slides and have the context menu display it.
-	For example, if I select one slide, I can change the background but if I select two then it won't show it because its confusing when it only affect one slide. Either make it affect all or make it not show up at all.
+- For example, if I select one slide, I can change the background but if I select two then it won't show it because its confusing when it only affect one slide. Either make it affect all or make it not show up at all.
