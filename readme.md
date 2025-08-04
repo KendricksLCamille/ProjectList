@@ -1,10 +1,5 @@
 # Projects
-## Fix Wii U
- - https://gbatemp.net/threads/ultimate-wii-u-troubleshooting-guide-system-memory-error-160-0103-stuck-wii-u-screen-stuck-factory-reset-black-screen-after-stuck-update.642339/#post-10308257
- - https://gbatemp.net/threads/how-to-setup-rednand-to-fix-system-memory-error-160-0103-failing-emmc-without-soldering.642268/
- - https://gbatemp.net/threads/ultimate-wii-u-troubleshooting-guide-system-memory-error-160-0103-stuck-wii-u-screen-stuck-factory-reset-black-screen-after-stuck-update.642339/
- - https://gbatemp.net/threads/wii-u-bricked-black-screen-of-death.672402/
- - 
+
 ## Learn basic of Ide, base languages and their frameworks.
 
 ## Port Nones (NES Emulator)
@@ -210,7 +205,13 @@ https://en.wikipedia.org/wiki/Ventrilo - find libraries
 - https://gbatemp.net/threads/animal-crossing-for-the-gamecube-has-been-decompiled.672373/
 - https://github.com/HarbourMasters/SpaghettiKart
 	- https://search.brave.com/search?q=common+ui+elements&summary=1&conversation=75781b32c6bb06121e6b01
-- 
+
+## Fix Wii U
+ - https://gbatemp.net/threads/ultimate-wii-u-troubleshooting-guide-system-memory-error-160-0103-stuck-wii-u-screen-stuck-factory-reset-black-screen-after-stuck-update.642339/#post-10308257
+ - https://gbatemp.net/threads/how-to-setup-rednand-to-fix-system-memory-error-160-0103-failing-emmc-without-soldering.642268/
+ - https://gbatemp.net/threads/ultimate-wii-u-troubleshooting-guide-system-memory-error-160-0103-stuck-wii-u-screen-stuck-factory-reset-black-screen-after-stuck-update.642339/
+ - https://gbatemp.net/threads/wii-u-bricked-black-screen-of-death.672402/
+
 
 ## Libreoffice
 Add ability to update the properties of multiple selected slides and have the context menu display it.
