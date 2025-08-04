@@ -11,7 +11,7 @@
 - https://gbatemp.net/threads/retroarch-wii-u-devkitpro-r38-and-wut.581160/
 - https://wii-u-homebrew-docs.readthedocs.io/en/latest/quickstart.html
 - https://github.com/yawut/ProgrammingOnTheU/blob/master/tutorial/Chapter%201.md
-- 
+- https://wut.devkitpro.org/topics.html
 ### Learn SDL3
 ### Set Up default SDL3
 Create a menu to test each of SDL3 menus by porting and creating a menu
