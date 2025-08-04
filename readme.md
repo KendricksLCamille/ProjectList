@@ -4,7 +4,14 @@
 
 ## Port Nones (NES Emulator)
 ### Learn WUT
-
+- https://wiiubrew.org/wiki/Homebrew_development_guide
+- https://gamefaqs.gamespot.com/boards/631516-wii-u/69428807
+- https://github.com/devkitPro/wut
+- https://github.com/devkitPro/wut-packages
+- https://gbatemp.net/threads/retroarch-wii-u-devkitpro-r38-and-wut.581160/
+- https://wii-u-homebrew-docs.readthedocs.io/en/latest/quickstart.html
+- https://github.com/yawut/ProgrammingOnTheU/blob/master/tutorial/Chapter%201.md
+- 
 ### Learn SDL3
 ### Set Up default SDL3
 Create a menu to test each of SDL3 menus by porting and creating a menu
