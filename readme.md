@@ -1,5 +1,7 @@
 # Projects
-
+## Write a program to replace Artist and Album Sort
+1. If split by ;, split into character seperated list using ';' and run the ',' reverser. 'Doe, John;Bill' => 'John Doe;Bill'
+2. Just run ',' reverse. So, Doe, John => John Dow
 ## Learn basic of Ide, base languages and their frameworks.
 
 ## Port Nones (NES Emulator)
