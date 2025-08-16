@@ -1,8 +1,5 @@
 # Projects
-## Write a program to replace Artist and Album Sort
-1. If split by ;, split into character seperated list using ';' and run the ',' reverser. 'Doe, John;Bill' => 'John Doe;Bill'
-2. Just run ',' reverse. So, Doe, John => John Dow
-## Learn basic of Ide, base languages and their frameworks.
+
 
 ## Port Nones (NES Emulator)
 ### Learn WUT
@@ -220,6 +217,11 @@ https://en.wikipedia.org/wiki/Ventrilo - find libraries
  - https://gbatemp.net/threads/how-to-setup-rednand-to-fix-system-memory-error-160-0103-failing-emmc-without-soldering.642268/
  - https://gbatemp.net/threads/ultimate-wii-u-troubleshooting-guide-system-memory-error-160-0103-stuck-wii-u-screen-stuck-factory-reset-black-screen-after-stuck-update.642339/
  - https://gbatemp.net/threads/wii-u-bricked-black-screen-of-death.672402/
+
+## Write a program to replace Artist and Album Sort
+1. If split by ;, split into character seperated list using ';' and run the ',' reverser. 'Doe, John;Bill' => 'John Doe;Bill'
+2. Just run ',' reverse. So, Doe, John => John Dow
+## Learn basic of Ide, base languages and their frameworks.
 
 
 ## Libreoffice
