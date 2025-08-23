@@ -1,5 +1,9 @@
 # Projects
 
+## Fix Github Website and Update to match resume
+### Inspirations
+- https://ckcherry23.github.io/#contact
+- https://www.osknyo.com/
 
 ## Port Nones (NES Emulator)
 ### Learn WUT
