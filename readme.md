@@ -148,6 +148,8 @@ https://boardgamegeek.com/geeklist/359738/board-game-covers-recreated-with-lego
 - https://abandonwaregames.net/
 - https://www.abandonwaredos.com/abandonware-linux.php?pag=630&l=Abandoned+Linux+classic+games
 - https://www.abandonwaredos.com/charts-top-10.php?pag=578&l=The+best+abandonware+PC+games+of+all+time
+- https://gamefaqs.gamespot.com/
+- 
 
 ## Supports
 - It should support all media types
