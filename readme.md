@@ -130,7 +130,26 @@ Reasons why provided
 
 ## Create Comprehensive Online Content Tracking and interactions web application
 This is a website the rolls forums/discussions (reddit), wikis (guidance), rating( metacritic and opencritic) and tracking (myanimelist, anilist, goodread, etc) into one.
-	
+
+## Games
+https://boardgamegeek.com/geeklist/359738/board-game-covers-recreated-with-lego
+### Manuals / Covers
+- https://www.digitpress.com/library/manuals/nes/index.html
+- http://pdf.textfiles.com/manuals/ARCADE/
+- https://www.digitpress.com/library/manuals/snes/index.html
+- https://vimm.net/manual
+- https://archive.org/details/consolemanuals
+- https://www.videogamemanual.com/
+- https://www.thecoverproject.net/view.php?game_id=12474
+### Game List
+- https://www.gamesdatabase.org/list.aspx?publisher=sega
+- https://www.mobygames.com/
+- https://www.myabandonware.com/browse/genre/
+- https://abandonwaregames.net/
+- https://www.abandonwaredos.com/abandonware-linux.php?pag=630&l=Abandoned+Linux+classic+games
+- https://www.abandonwaredos.com/charts-top-10.php?pag=578&l=The+best+abandonware+PC+games+of+all+time
+
+## Supports
 - It should support all media types
 	- Visual Novels
 	- Books
