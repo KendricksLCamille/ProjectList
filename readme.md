@@ -247,3 +247,11 @@ https://en.wikipedia.org/wiki/Ventrilo - find libraries
 ## Libreoffice
 Add ability to update the properties of multiple selected slides and have the context menu display it.
 - For example, if I select one slide, I can change the background but if I select two then it won't show it because its confusing when it only affect one slide. Either make it affect all or make it not show up at all.
+
+## Make better Linux Music Player (https://andreyor.st/posts/2023-11-19-linux-music-players/)
+- Should allow proper shuffle rather than just albums
+- Should be able to sync music between devices
+- Should be able to convert music to another format for other device
+- Should automatically pull useful information from music brainz and what not to get proper organizations
+- Should be able to update tags
+- Should be a type of x app or just a library that allows someone to simply build a UI that calls it so everyone can have their own app
