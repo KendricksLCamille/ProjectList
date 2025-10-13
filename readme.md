@@ -1,4 +1,7 @@
 # Projects
+## Mario Party Like Game
+Pull inspiration from things like Dokapon Kingdom, Sonic Shuffle, Mario Party, Wii Party (U), Fortune Street, Go Go Princess, other video board games and etc. Be ready to play alot of party games in single player from SNES To today.
+
 
 ## Port Nones (NES Emulator)
 ### Learn WUT
@@ -60,8 +63,6 @@ A unified Job search application that use AI to automatically search companies f
 - Should keep track of any duplicates and repostings ideally.
 
 
-## Mario Party Like Game
-Pull inspiration from things like Dokapon Kingdom, Sonic Shuffle, Mario Party, Wii Party (U), Fortune Street and etc. Be ready to play alot of party games in single player from SNES To today.
 
 
 
