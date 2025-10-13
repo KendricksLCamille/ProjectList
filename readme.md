@@ -1,6 +1,6 @@
 # Projects
 ## Mario Party Like Game
-Pull inspiration from things like Dokapon Kingdom, Sonic Shuffle, Mario Party, Wii Party (U), Fortune Street, Go Go Princess, other video board games and etc. Be ready to play alot of party games in single player from SNES To today.
+Pull inspiration from things like Dokapon Kingdom, Sonic Shuffle, Mario Party, Wii Party (U), Fortune Street, Go Go Princess, other video board games, https://boardgamegeek.com/geeklist/147902/video-games-that-feel-like-board-games?page=2 and etc. Be ready to play alot of party games in single player from SNES To today.
 
 
 ## Port Nones (NES Emulator)
