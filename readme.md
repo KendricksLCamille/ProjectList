@@ -42,6 +42,14 @@ Take the SDL3 code and port to wii u
 
 https://github.com/purpasmart96/nones
 
+## Unified Body Tracking app using Kotlin Multiplatform
+https://f-droid.org/packages/com.waist.line/
+https://medevel.com/openscale/
+https://www.androidpolice.com/best-open-source-fitness-apps-android/
+https://github.com/simonoppowa/OpenNutriTracker/wiki
+https://kotlinlang.org/docs/multiplatform.html
+Try to store open nutritional facts and push back new information and filter.
+
 
 ## Build a Better Quickbooks Sharp API V2 since the one that exist on nuget is weak. Try to make it multi API so it for all the business languages like Java, C#, Python,  C++, C, maybe Rust and Go.
 - [QuickBooksSharp](https://www.nuget.org/packages/QuickBooksSharp)
