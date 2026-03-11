@@ -259,8 +259,52 @@ Add ability to update the properties of multiple selected slides and have the co
 
 ## Make better Linux Music Player (https://andreyor.st/posts/2023-11-19-linux-music-players/)
 - Should allow proper shuffle rather than just albums
-- Should be able to sync music between devices
-- Should be able to convert music to another format for other device
-- Should automatically pull useful information from music brainz and what not to get proper organizations
-- Should be able to update tags
-- Should be a type of x app or just a library that allows someone to simply build a UI that calls it so everyone can have their own app
+
+## Build my own UI Library
+### Apple
+	https://andymatuschak.org/files/papers/Apple%20Human%20Interface%20Guidelines%201987.pdf
+	https://blog-geofcrowl-static-images.s3.us-east-1.amazonaws.com/2020-02-17-collection-higs/APPLE-Guidelines-2005.pdf
+	https://vintageapple.org/inside_r/pdf/Human_Interface_Guidelines_1992.pdf
+	https://developer.apple.com/design/human-interface-guidelines
+	https://codershigh.github.io/guidelines/ios/human-interface-guidelines/resources/index.html
+	https://vintageapple.org/inside_r/pdf/Human_Interface_Guidelines_1992.pdf
+	https://dev.os9.ca/
+	https://dev.os9.ca/techpubs/mac/HIGuidelines/HIGuidelines-2.html
+	https://www.macintoshrepository.org/32856-apple-human-interface-guidelines
+	https://github.com/sindresorhus/human-interface-guidelines-extras?tab=readme-ov-file
+	https://gist.github.com/eonist/f4ba31012815731284d867232f6c70e4
+
+### Palm OS
+	https://palm.wiki/development/docs/601/PalmOSCompanion/Nutshell.html
+	https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf
+	https://palm.wiki/development/docs/601/PalmOSCompanion/UserInterface.html
+	https://palm.wiki/development/docs/601/PalmOSCompanion/UserInterface.html
+	https://github.com/discatte/palm-development-docs
+### Windows
+	http://bitsavers.informatik.uni-stuttgart.de/pdf/microsoft/windows_95/Programming_the_Windows_95_User_Interface_1995.pdf
+	https://blog.prototypr.io/why-windows-98s-user-onboarding-is-better-than-yours-f93a2d431472
+	https://ics.uci.edu/~kobsa/courses/ICS104/course-notes/Microsoft_WindowsGuidelines.pdf
+	https://blog-geofcrowl-static-images.s3.us-east-1.amazonaws.com/2020-02-17-collection-higs/MS-Windows-User-Experience-2001.pdf
+	https://ics.uci.edu/~kobsa/courses/ICS104/course-notes/Microsoft_WindowsGuidelines.pdf
+	https://archive.org/details/windowsinterface00micr
+	https://www.bitsavers.org/pdf/microsoft/windows_95/Introducing_Microsoft_Windows_95_1995.pdf
+### Gnome / KDE / Third-Party
+	https://developer.blender.org/docs/features/interface/human_interface_guidelines/
+	https://developer.gnome.org/hig/
+	https://develop.kde.org/hig/
+	https://docs.qgis.org/3.40/en/docs/developers_guide/hig.html
+	https://wiki.documentfoundation.org/Category:HIG
+	https://develop.kde.org/hig/
+	https://docs.ubports.com/no/latest/humanguide/index.html
+	https://www.interaction-design.org/literature/article/user-interface-design-guidelines-10-rules-of-thumb
+	https://app.uxcel.com/glossary/human-interface-guidelines
+	https://docs.elementary.io/hig
+	https://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/
+	https://blog.logrocket.com/ux-design/human-interface-guidelines/
+	https://en.wikipedia.org/wiki/Human_interface_guidelines
+	https://pdfcoffee.com/designing-interactions-bill-moggridge-pdf-free.html
+	- Should be able to sync music between devices
+	- Should be able to convert music to another format for other device
+	- Should automatically pull useful information from music brainz and what not to get proper organizations
+	- Should be able to update tags
+	- Should be a type of x app or just a library that allows someone to simply build a UI that calls it so everyone can have their own app
