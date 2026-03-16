@@ -13,6 +13,11 @@ Pull inspiration from things like Dokapon Kingdom, Sonic Shuffle, Mario Party, W
 - https://wii-u-homebrew-docs.readthedocs.io/en/latest/quickstart.html
 - https://github.com/yawut/ProgrammingOnTheU/blob/master/tutorial/Chapter%201.md
 - https://wut.devkitpro.org/topics.html
+- https://examples.libsdl.org/SDL3/
+# Examples applications to study
+- [https://wut.devkitpro.org/group__vpad__input.html#structVPADVec2D](https://github.com/fortheusers/hb-appstore)
+- https://github.com/rw-r-r-0644/Fireplace-WiiU
+- https://github.com/rw-r-r-0644/WiiU-Shell
 ### Learn SDL3
 ### Set Up default SDL3
 Create a menu to test each of SDL3 menus by porting and creating a menu
