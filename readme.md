@@ -7,6 +7,7 @@ Pull inspiration from things like Dokapon Kingdom, Sonic Shuffle, Mario Party, W
 ### Learn WUT
 - https://wiiubrew.org/wiki/Homebrew_development_guide
 - https://gamefaqs.gamespot.com/boards/631516-wii-u/69428807
+- https://wiki.libsdl.org/SDL3/Tutorials
 - https://github.com/devkitPro/wut
 - https://github.com/devkitPro/wut-packages
 - https://gbatemp.net/threads/retroarch-wii-u-devkitpro-r38-and-wut.581160/
@@ -21,6 +22,18 @@ Pull inspiration from things like Dokapon Kingdom, Sonic Shuffle, Mario Party, W
 ### Learn SDL3
 ### Set Up default SDL3
 Create a menu to test each of SDL3 menus by porting and creating a menu
+
+[Port SDL 2.0 to BIOS - SDL Development - Simple Directmedia Layer | Super Important
+](https://discourse.libsdl.org/t/port-sdl-2-0-to-bios/25453)
+
+[SDL3/FrontPage - SDL Wiki](https://wiki.libsdl.org/SDL3/FrontPage)
+
+[Lazy Foo' Productions - Introduction](https://lazyfoo.net/tutorials/SDL3/00-introduction/index.php)
+
+[SDL3/README-platforms - SDL Wiki](https://wiki.libsdl.org/SDL3/README-platforms)
+
+[GitHub - burhanr13/Tanuki3DS: 3DS Emulator · GitHub](https://github.com/burhanr13/Tanuki3DS)
+
 
 
 https://wiki.libsdl.org/SDL3/FrontPage
