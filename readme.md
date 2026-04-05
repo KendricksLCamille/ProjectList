@@ -2,6 +2,259 @@
 ## Mario Party Like Game
 Pull inspiration from things like Dokapon Kingdom, Sonic Shuffle, Mario Party, Wii Party (U), Fortune Street, Go Go Princess, other video board games, https://boardgamegeek.com/geeklist/147902/video-games-that-feel-like-board-games?page=2 and etc. Be ready to play alot of party games in single player from SNES To today.
 
+## Omni Critic / Downloader
+
+-- Nice to have all major covers in all the different regions
+
+-----------
+Base
+------------------
+Guid Id
+Timestamp Created
+Timestamp Edited
+boolean Deleted
+
+
+---------------
+Favorite<T,U> where T: User and U: atleast Base -- Allows User to bind themselves to U
+----------------
+T t,
+U u
+
+----------------
+Sites<T> where T:Base
+----------------
+T 		t
+String 		Site Name -- Case Insensitive
+Url		url
+
+-- Hard Core List of Country
+=======
+Names<T>
+=======
+T 		t
+Country 	country
+utf-8 		name
+
+
+
+========
+IHasMultipleName : Base
+----------
+Language Canonical Country -- The country of origin for base
+
+-----------
+Person : IHasMultipleName
+---------
+DateTime 	Date Of Birth
+String		Given Name (First Name)
+String		Familly Name (Last Name)
+Sites<W/I>
+
+-------
+(Writer / Illustrator) : Author : IHasMultipleName
+-------
+
+
+--------
+Publisher : IHasMultipleName
+---------
+string 		Publisher Name -- Get from Name List and User's language
+
+--------
+Media : IHasMultipleName
+--------
+string 		Franchise Name (Get from Name table and User's language preference)
+DateTime 	Start -- Can be aliased, First showing, published
+DateTime? 	End
+uint-8		Rating [1,100] -- Can be expressed based on user as 5 stars, slider with 10 ticks and enter a number between 1 and 100 inclusive.. Everything maps to 1 to 100, allows user to set granaluty then scale based off of it so its actually 0 to 255
+uint		Length to complete -- How long it takes to complete by averaging users values. Can be generic or it can be exact date based on time entries
+
+---------------
+ParentChild<P,C>  P and V are media types
+----------------
+Parent P
+Child C
+
+============
+Playlist
+===========
+string Name
+	===============
+	Entry : Media -- Book, Episode, Game in a series
+	================
+	Playlist Id
+	int Order
+	
+
+-------
+Franchise : Media
+-------
+
+
+----------
+FranchiseParentToChild : Base
+----------
+Franchise 	Parent
+Franchise	Child
+String		Relationship
+
+-------
+Creators<T,U> : Base where T : Media and U :Author
+-------
+Media		media
+Creator		creator
+
+
+==========
+Data : Base
+==========
+Data 	Parent
+String 	Title
+
+==========
+Record Keeping : Base
+==========
+string 		DatabaseName
+int		TableId Affected
+int 		UserId
+
+==========
+Tags : Base
+============
+string Name
+string Description
+
+============
+Relations : Base , OneToMany (but not self referential)
+==============
+Tags Parent
+Tags Child
+
+All the below can use any genre
+
+Litereature
+	- Graphic Novels / Manga / Comics / Bond de se ne /
+	- Light Novels / Novella
+	
+Images (Old Art, Photographs, Re
+Video (TV, Movies, OVA)
+Video Game
+Visual Novel (Kinetic Novel, Pick your adventure, Dating Sims, ...)
+
+
+namespace Mangadownloader;
+
+/**
+ * Manga Archiver Applicataion
+	Creator
+		Illustator
+		Author
+	Collaborator
+		Transloatr
+		Editor
+		
+	Book
+		
+	CreatorBook
+	CalaboratorBook
+ */
+
+public enum Language
+{
+    Japanese,
+    English,
+    Spanish_SPAIN,
+    Spanish_LATAM,
+    French,
+    Chinese,
+    Korean,
+    Vietnamese,
+}
+public interface ILanguage
+{
+    public Language Language { get; }
+}
+
+public record Creator(int Id, string JsonInformation)
+{
+    public enum CreatorType
+    {
+        Artist,
+        Author,
+        Illustrator,
+        Penciller,
+        Inker,
+        Colorist,
+        Letterer,
+        CoverArtist,
+    }
+}
+
+public class CreatorData : ILanguage
+{
+    public Creator Creator { get; }
+    public string FamilyName { get; }
+    public string GivenName { get; }
+    public string MiddleName { get; }
+    public string Name { get; }
+    public string OtherName { get; }
+    public string Pseudonym { get; }
+    public string SortName { get; }
+    public string Prefix { get; }
+    public string Suffix { get; }
+    public string JsonInformation { get; set; }
+    public Language Language { get; } = Language.Japanese;
+}
+
+public interface IManga
+{
+    public int Id { get; }
+}
+
+
+public interface IChapterData
+{
+    public int Id { get; }
+    public int MangaId { get; }
+    public DateTime ReleaseDate { get; }
+    public string Title { get; }
+    public int ChapterNumber { get; }
+}
+
+public interface IChapter : ILanguage
+{
+    public IChapterData ChapterData { get; }
+    public string Source { get; }
+    public int GroupId { get; }
+}
+
+public interface IMangaData
+{
+    public int Id { get; }
+    public IManga Manga { get; }
+    public string Title { get; }
+    public string Description { get; }
+}
+
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Data;
+
+public abstract class Base
+{
+    [Key]
+    public Guid Id { get; set; }
+    public DateTime CreatedAt { get; set; }
+    public DateTime UpdatedAt { get; set; }
+    public bool IsDeleted { get; set; }
+}
+
+public abstract class Favorite<T, U>:Base where T : Base where U : Base
+{
+}
+
+
 
 ## Port Nones (NES Emulator)
 ### Learn WUT
