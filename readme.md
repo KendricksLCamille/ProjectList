@@ -268,10 +268,27 @@ public abstract class Favorite<T, U>:Base where T : Base where U : Base
 - https://github.com/yawut/ProgrammingOnTheU/blob/master/tutorial/Chapter%201.md
 - https://wut.devkitpro.org/topics.html
 - https://examples.libsdl.org/SDL3/
-# Examples applications to study
+#### Examples applications to study
 - [https://wut.devkitpro.org/group__vpad__input.html#structVPADVec2D](https://github.com/fortheusers/hb-appstore)
 - https://github.com/rw-r-r-0644/Fireplace-WiiU
 - https://github.com/rw-r-r-0644/WiiU-Shell
+##### OpenGL libraries to practive for wii u rendering library
+Open GL Tutorial:
+https://wikis.khronos.org/opengl/Getting_Started
+https://community.khronos.org/t/learning-opengl/76141/5
+https://en.wikibooks.org/wiki/OpenGL_Programming#Appendices
+https://www.opengl-tutorial.org/
+https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial
+https://threejs.org/
+https://www.learnopengles.com/webgl-lesson-one-getting-started/
+https://www.euclideanspace.com/
+https://www.webglacademy.com/
+https://webgl2fundamentals.org/webgl/lessons/webgl-fundamentals.html
+https://www.w3schools.com/graphics/webgl_intro.asp
+https://webglfundamentals.org/
+https://www.songho.ca/opengl/index.html
+https://learnwebgl.brown37.net/
+
 ### Learn SDL3
 ### Set Up default SDL3
 Create a menu to test each of SDL3 menus by porting and creating a menu
